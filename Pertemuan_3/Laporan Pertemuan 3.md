@@ -5,11 +5,11 @@
 ## Praktikum 1: Menerapkan Control Flows ("if/else")
 Selesaikan langkah-langkah praktikum berikut ini menggunakan DartPad di browser Anda.
 ### Langkah 1
-Ketik atau salin kode program berikut ke dalam fungsi main().
+Ketik atau salin kode program berikut ke dalam fungsi main().<br>
 ![Deskripsi Gambar](img/1.png)<br>
 
 ### Langkah 2
-Silakan coba eksekusi (Run) kode pada langkah 1 tersebut. Apa yang terjadi? Jelaskan!
+Silakan coba eksekusi (Run) kode pada langkah 1 tersebut. Apa yang terjadi? Jelaskan!<br>
 ![Deskripsi Gambar](img/2.png)<br>
 ```
 Penjelasan
@@ -17,7 +17,7 @@ Kode tidak dapat dijalankan karena ada beberapa kesalahan dalam penulisan sintak
 ```
 
 ### Langkah 3
-Tambahkan kode program berikut, lalu coba eksekusi (Run) kode Anda.
+Tambahkan kode program berikut, lalu coba eksekusi (Run) kode Anda.<br>
 ![Deskripsi Gambar](img/3.png)<br>
 ### Output
 ![Deskripsi Gambar](img/4.png)<br>
@@ -480,4 +480,3 @@ Dhaneswara Haryo Satriagung, 2241720037
 199
 Dhaneswara Haryo Satriagung, 2241720037
 ```
-E:\SMT 5\P. Mobile\Pertemuan 3\Laporan Pertemuan 3.md
